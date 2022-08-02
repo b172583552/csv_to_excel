@@ -1,0 +1,5 @@
+RecordDate,RecordCount,ClientCode,ClientName,RunnerCode,AccNo,AccBranch,SMSNo,MarketValueHKD,MarketValueUSD,MarketValueCNY,TotalMarketValueHKD,ODLimitHKD,ODBalanceHKD,HoldFundHKD,LTV,SMSContent,ActionRemarks
+20211027,4,0629210,TESTING ACFORCS3,185156,807000008673,807,65706493,208726.14,0.00,0.00,208726.14,1000000.00,-417452.28,0.00,-200%,閣下之證券帳戶透支情況及股票價值比較已達到極高風險水平，請即降低透支結餘或沽售部份股票，使帳戶恢復至安全水平。查詢請電83962181,3. LTV over -165% (MV change: -50%); Issue letter & call customer
+20211027,4,0629209,TESTING ACFORCS2,185156,807000008661,807,66838676,428586.54,0.00,0.00,428586.54,1000000.00,-707167.79,0.00,-165%,閣下之證券帳戶透支情況及股票價值比較已達到較高風險水平，請考慮降低透支結餘或沽售部份股票，使帳戶恢復至安全水平。查詢請電83962181,4. LTV over -140% (MV change: -39%); Alert customer verbally
+20211027,4,0629208,TESTING ACOFCS,185156,807000008659,807,66388938,192182.46,0.00,0.00,192182.46,1000000.00,-269055.44,0.00,-140%,N/A,5. LTV within normal level (MV change: -29%)
+20211027,4,0617930,CHAN TAI MAN,185156,807000008712,807,66388938,0.00,0.00,0.00,0.00,1000000.00,0.00,0.00,No MV and No OD,N/A,6. No MV and No OD
